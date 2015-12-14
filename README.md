@@ -1,7 +1,7 @@
 # CentOS 6 - Basic installation
 Docker base image of CentOS
 
-## Package already installed
+## Installed package :
 * Epel
 * curl
 * vim 
